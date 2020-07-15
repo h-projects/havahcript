@@ -1,0 +1,27 @@
+{
+  "name": "@h-projects/havahcript",
+  "version": "1.0.0",
+  "description": "Javascript But H",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-projects/havahcript.git"
+  },
+  "keywords": [
+    "h",
+    "aytchsoftware",
+    "havahcript"
+  ],
+  "author": "Aytch Software",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/h-projects/havahcript/issues"
+  },
+  "homepage": "https://github.com/h-projects/havahcript#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  }
+}
